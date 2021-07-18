@@ -1,2 +1,2 @@
-# FlutterCRUDInteractiveWidget
-Flutter demo for building interactive widget (CRUD)
+# FlutterBasicWidget
+a project that try to build and understand the basic working of flutter widget
